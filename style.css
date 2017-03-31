@@ -1,0 +1,10 @@
+.myTab {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    z-index: 100;
+    background: white;
+    top: 20%;
+    right: 0px;
+    border: 1px solid black;
+}
